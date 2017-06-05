@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cthulu_client", "cthulu_client\cthulu_client.vcproj", "{465B4F02-F1CB-40D6-B523-90A78F6A0485}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "payload_dll", "payload_dll\payload_dll.vcproj", "{B1DD509D-E405-4238-BEF3-FA4B1F2F73AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{465B4F02-F1CB-40D6-B523-90A78F6A0485}.Debug|Win32.ActiveCfg = Debug|Win32
+		{465B4F02-F1CB-40D6-B523-90A78F6A0485}.Debug|Win32.Build.0 = Debug|Win32
+		{465B4F02-F1CB-40D6-B523-90A78F6A0485}.Release|Win32.ActiveCfg = Release|Win32
+		{465B4F02-F1CB-40D6-B523-90A78F6A0485}.Release|Win32.Build.0 = Release|Win32
+		{B1DD509D-E405-4238-BEF3-FA4B1F2F73AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B1DD509D-E405-4238-BEF3-FA4B1F2F73AF}.Debug|Win32.Build.0 = Debug|Win32
+		{B1DD509D-E405-4238-BEF3-FA4B1F2F73AF}.Release|Win32.ActiveCfg = Release|Win32
+		{B1DD509D-E405-4238-BEF3-FA4B1F2F73AF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
